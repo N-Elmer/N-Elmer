@@ -1,6 +1,4 @@
-### Hi there, 👋 I am Numfor Elmer
-
-Here are some ideas to get you started:
+### /> Hello World: I am Numfor Elmer
 
 - 🔭 I’m currently working on my Natural Disaster Prediction System.
 - 🌱 I’m currently learning Satelite Image Processing with Deep Learning.
@@ -10,6 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](mailto:elmerelmander@gmail.com), [LinkedIn](https://www.linkedin.com/in/numfor-elmer-316b4218a/)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I speak 5 languages, namely: English, French, Bafut, Pidgin and German.
+- ▶  Small Note: Elmander is my Pseudonym.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&theme=tokyonight&showicons=true)]()
 
