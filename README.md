@@ -8,7 +8,7 @@
 - 📫 How to Reach Me: [Email](mailto:elmerelmander@gmail.com), [Telegram](https://t.me/terraxscitech), [LinkedIn](https://www.linkedin.com/in/numfor-elmer-316b4218a).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun Fact: I speak 5 languages, namely: English, French, Bafut, Pidgin and German.
-- ▶  Small Note: Elmander is my Pseudonym.
+- 📝 Small Note: Elmander is my Pseudonym.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&theme=tokyonight&showicons=true)]()
 
