@@ -1,13 +1,13 @@
-### /> Hello World: I am Numfor Elmer
+### /> Hello World -> I am Numfor Elmer
 
 - 🔭 I’m currently working on my Natural Disaster Prediction System.
 - 🌱 I’m currently learning Satelite Image Processing with Deep Learning.
 - 👯 I’m looking to collaborate with OMDENA Machine Learning Open Source Projects.
-- 🤔 I’m looking for help with Deep Learning and Neural Networks.
-- 💬 Ask me about Data Science, AI, Machine Learning, IoT and Embedded Systems.
+- 🤔 I’m looking for help with Neural Networks.
+- 💬 Ask me anything about Data Science, AI, Machine Learning, IoT and Embedded Systems.
 - 📫 How to Reach Me: [Email](mailto:elmerelmander@gmail.com), [Telegram](https://t.me/terraxscitech), [LinkedIn](https://www.linkedin.com/in/numfor-elmer-316b4218a).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun Fact: I communicate in 5 languages, namely: English, French, Bafut, Pidgin and German.
+- ⚡ Fun Fact: I communicate in 5 languages namely; Bafut, Pidgin, English, French and German.
 - 📝 Small Note: Elmander is my Pseudonym.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
