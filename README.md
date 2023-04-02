@@ -1,4 +1,4 @@
-### /> Hello World -> I am Numfor Elmer
+### /> Hello World -> I Am Numfor Elmer
 
 - 🔭 I’m currently working on my Natural Disaster Prediction System.
 - 🌱 I’m currently learning Satelite Image Processing with Deep Learning.
