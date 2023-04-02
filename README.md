@@ -10,6 +10,8 @@
 - ⚡ Fun Fact: I communicate in 5 languages namely; Bafut, Pidgin, English, French and German.
 - 📝 Small Note: Elmander is my Pseudonym.
 
+[![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&amp;theme=tokyonight)]()
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Elmer&langs_count=5&theme=tokyonight)]()
