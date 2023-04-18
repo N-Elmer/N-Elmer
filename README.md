@@ -1,5 +1,7 @@
 ### /> Hello World -> I Am Numfor Elmer
 
+[![](https://komarev.com/ghpvc/?username=N-Elmer&color=628FDB)]()
+
 - 🔭 I’m currently working on my Natural Disaster Prediction System.
 - 🌱 I’m currently learning Satelite Image Processing with Deep Learning.
 - 👯 I’m looking to collaborate with OMDENA Machine Learning Open Source Projects.
