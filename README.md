@@ -15,3 +15,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Elmer&langs_count=5&theme=tokyonight)]()
+
+[![](https://komarev.com/ghpvc/?username=N-Elmer&color=628FDB)]()
+
+[![Total Views](https://profile-counter.glitch.me/{N-Elmer}/count.svg)]()
