@@ -9,8 +9,8 @@
 - 💬 Ask me anything about Data Science, AI, Machine Learning, IoT and Embedded Systems.
 - 📫 How to Reach Me: [Email](mailto:elmerelmander@gmail.com), [Telegram](https://t.me/terraxscitech), [LinkedIn](https://www.linkedin.com/in/elmander-elmer-316b4218a/).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun Fact: I communicate in 5 languages namely; Bafut, Pidgin, English, French and German.
-- 📝 Small Note: Elmander is my Pseudonym.
+- ⚡ Fun Fact: I communicate in several languages.
+- 📝 Small Note: I like AI and Robotics.
 
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&amp;theme=tokyonight)]()
 
