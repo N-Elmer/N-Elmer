@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with OMDENA Machine Learning Open Source Projects.
 - 🤔 I’m looking for help with Neural Networks.
 - 💬 Ask me anything about Data Science, AI, Machine Learning, IoT and Embedded Systems.
-- 📫 How to Reach Me: [Email](mailto:elmerelmander@gmail.com).
+- 📫 How to Reach Me: [Email](mailto:terraexploration91@gmail.com).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun Fact: I communicate in several languages.
 - 📝 Small Note: Discipline, Hardwork and Success.
