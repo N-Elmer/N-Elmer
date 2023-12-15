@@ -7,10 +7,10 @@
 - 👯 I’m looking to collaborate with OMDENA Machine Learning Open Source Projects.
 - 🤔 I’m looking for help with Neural Networks.
 - 💬 Ask me anything about Data Science, AI, Machine Learning, IoT and Embedded Systems.
-- 📫 How to Reach Me: [Email](mailto:elmerelmander@gmail.com), [Telegram](https://t.me/terraxscitech), [LinkedIn](https://www.linkedin.com/in/elmander-elmer-316b4218a/).
+- 📫 How to Reach Me: [Email](mailto:elmerelmander@gmail.com).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun Fact: I communicate in several languages.
-- 📝 Small Note: Elmander is my Pseudonym.
+- 📝 Small Note: Discipline, Hardwork and Success.
 
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&amp;theme=tokyonight)]()
 
