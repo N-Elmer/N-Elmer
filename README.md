@@ -10,7 +10,7 @@
 - 📫 How to Reach Me: [Email](mailto:terraexploration91@gmail.com).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun Fact: I communicate in several languages.
-- 📝 Small Note: Discipline, Hardwork and Success.
+- 📝 Small Note: Discipline + Hardwork = Success.
 
 [![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&amp;theme=tokyonight)]()
 
