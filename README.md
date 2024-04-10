@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Natural Disaster Prediction System.
 - 🌱 I’m currently learning Satelite Image Processing with Deep Learning.
 - 👯 I’m looking to collaborate with OMDENA Machine Learning Open Source Projects.
-- 🤔 I’m looking for help with Neural Networks.
+- 🤔 I’m currently working on projects with Neural Networks.
 - 💬 Ask me anything about Data Science, AI, Machine Learning, IoT and Embedded Systems.
 - 📫 How to Reach Me: [Email](mailto:terraexploration91@gmail.com).
 - ⚡ Fun Fact: I communicate in several languages.
