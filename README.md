@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hello World >_I Am Elmer</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">A passionate web and mobile development as well as UI designing</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/f5/fd/96/f5fd968e7af326fa04cd97d344b0a720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N-Elmer&color=1D4FA8" /> </p>
@@ -100,6 +100,6 @@ A snapshot of my coding journey and contributions on GitHub!
 <div/>
 
 <div align="left"> 
-<a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&theme=tokyonight" alt="N-Elmer's GitHub Streak Stats" width="350"/></a> <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Top Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Elmer&langs_count=5&theme=tokyonight" alt="N-Elmer's GitHub Top Languages" width="250"/></a> <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true" alt="N-Elmer's GitHub Stats" width="350"/></a>
+<a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&theme=tokyonight" alt="N-Elmer's GitHub Streak Stats" width="350"/></a> <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true" alt="N-Elmer's GitHub Stats" width="350"/></a> <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Top Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Elmer&langs_count=5&theme=tokyonight" alt="N-Elmer's GitHub Top Languages" width="250"/></a>
 
 </div>
