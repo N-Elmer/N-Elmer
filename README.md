@@ -31,7 +31,7 @@
 <div align="center">
 
 ## 🚀 My Tech Stack
-A versatile toolkit for building AI-driven solutions, web, and desktop applications:
+A versatile toolkit for building AI-driven solutions:
 
 ---
 
@@ -49,7 +49,7 @@ A versatile toolkit for building AI-driven solutions, web, and desktop applicati
 ---
 
 ### Technologies and Frameworks
-*Tools for crafting modern web, desktop, and AI-driven applications.*
+*Tools for crafting modern web, desktop, mobile and AI-driven applications.*
 
 | [React](https://reactjs.org/) | [TailwindCSS](https://tailwindcss.com/) | [Bootstrap](https://getbootstrap.com/) | [Qt](https://www.qt.io/) | [PyQt](https://www.python.org/) | [JavaFX](https://openjfx.io/) |
 |:-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
