@@ -100,8 +100,14 @@ A versatile toolkit for building AI-driven solutions, web, and desktop applicati
 ## 📊 My Stats
 A snapshot of my coding journey and contributions on GitHub!
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;"> 
-    <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Streak Stats" style="flex: 1 1 300px; max-width: 400px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&theme=tokyonight" alt="N-Elmer's GitHub Streak Stats" style="width: 100%; height: auto</a>
-    <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Top Languages" style="flex: 1 1 300px; max-width: 400px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Elmer&langs_count=5&theme=tokyonight" alt="N-Elmer's GitHub Top Languages" style="width: 100%; height: auto;"/></a>
-    <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Stats" style="flex: 1 1 300px; max-width: 400px;"><img src="https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true" alt="N-Elmer's GitHub Stats" style="width: 100%; height: auto;"/></a>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: stretch; gap: 16px; width: 100%;"> 
+    <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Streak Stats" style="flex: 1 1 0; min-width: 0;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-Elmer&theme=tokyonight" alt="N-Elmer's GitHub Streak Stats" style="width: 100%; height: auto; display: block;"/>
+    </a> 
+    <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Top Languages" style="flex: 1 1 0; min-width: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Elmer&langs_count=5&theme=tokyonight" alt="N-Elmer's GitHub Top Languages" style="width: 100%; height: auto; display: block;"/>
+    </a> 
+    <a href="https://github.com/N-Elmer" target="_blank" rel="noreferrer" title="My GitHub Stats" style="flex: 1 1 0; min-width: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/?username=N-Elmer&count_private=true&show_icons=true&theme=tokyonight&showicons=true" alt="N-Elmer's GitHub Stats" style="width: 100%; height: auto; display: block;"/>
+    </a>
 </div>
